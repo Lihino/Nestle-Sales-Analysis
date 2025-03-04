@@ -5,7 +5,7 @@ Nestle sales analysis using Power-Bi for Visualization.
 * Summary
 * Introduction
 * Data Collection
-* Tools and Tecnologies
+* Tools and Technologies
 * Methodology
 * Data Analysis
 * Findings and Insights
